@@ -1,0 +1,32 @@
+## 📘 Lab_Final_03 – Lab Final Preparation
+
+This folder is dedicated to **practice and preparation** for the **3rd Lab Final Examination** of the **Advanced Programming with Python** course.
+
+### 🎯 Objective
+
+* Practice all important topics for **Lab Final 03**
+* Improve Python-based implementation and problem-solving skills
+* Create a shared resource so **anyone can prepare from this folder**
+
+### 📚 Topics Covered
+
+The following topics are included for **Lab Final 03** preparation:
+
+* **Summary Statistics**
+  Mean, median, mode, variance, standard deviation, data distribution analysis, and basic statistical insights using Python.
+
+* **Linear Regression**
+  Simple and multiple linear regression, model implementation, coefficient interpretation, prediction, and performance evaluation.
+
+* **Logistic Regression**
+  Binary classification, sigmoid function, model training, prediction, and evaluation metrics.
+
+📌 Note:
+Please check the resources folder to read the relevant documents or lecture slides for each topic before starting the practice.
+
+### 📂 What This Folder Contains
+
+* Topic-wise Python practice codes
+* Lab-exam–oriented problem solutions
+* Concept-focused implementations
+* Clean, readable, and well-commented code
