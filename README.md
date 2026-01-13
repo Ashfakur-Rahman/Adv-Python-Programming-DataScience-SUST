@@ -1,6 +1,4 @@
-# Advanced Programming with Python
-
-## MSc in Data Science – SUST
+# Advanced Programming with Python — MSc Data Science (SUST)
 
 This repository contains lab implementations, assignments, and hands-on practice materials from the **Advanced Programming with Python** course, which is part of my **MSc in Data Science** program at **Shahjalal University of Science and Technology (SUST)**.
 
